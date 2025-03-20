@@ -31,6 +31,6 @@ You can find me here:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreya-tiwari-1a1162257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-shreyatiwari.ina@gmail.com)
 
-p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya-230&show_icons=true&locale=en&layout=compact" alt="Shreya-230" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya-230&show_icons=true&locale=en&layout=compact" alt="Shreya-230" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-230&" alt="  Shreya-230" /></p>
